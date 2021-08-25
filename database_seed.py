@@ -9,7 +9,7 @@ from random import randrange, seed
 import pandas as pd
 from sqlalchemy import create_engine
 
-from models import movie, language, project, project_state_log, state, vendor, meta, country, project_milestone
+from models import movie, language, project, project_state_log, project_state, vendor, meta, country, project_milestone
 
 if os.path.exists('netflix_demo.db'):
     os.remove('netflix_demo.db')
@@ -81,12 +81,13 @@ with open(r'data/project_state_log.csv', 'a') as logs:
                     milestone_state_id = log_state_id + 1
                     project_milestone_writer.writerow((project_id, milestone_state_id, milestone_date))
 
-seed_states_query = state.insert().values([(0, 'requirement_gathering'),
-                                           (1, 'asset_creation'),
-                                           (2, 'translation'),
-                                           (3, 'subtitle_engineering'),
-                                           (4, 'QA'),
-                                           (5, 'Completion')])
+seed_project_states_query = project_state.insert().values([(0, 'Requirement Gathering',),
+                                                           (1, 'Asset Creation',),
+                                                           (2, 'Translation',),
+                                                           (3, 'Subtitle Engineering',),
+                                                           (4, 'QA',),
+                                                           (5, 'Completion',)])
+engine.execute(seed_project_states_query)
 
 project_state_logs = pd.read_csv('data/project_state_log.csv',
                                  parse_dates=['timestamp'], infer_datetime_format=True,

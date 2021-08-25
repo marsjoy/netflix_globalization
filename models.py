@@ -27,8 +27,8 @@ project = Table(
     Column('vendor_id', Integer, ForeignKey('vendor.id')),
     Column('language_id', Integer, ForeignKey('language.id')),
 )
-state = Table(
-    'state', meta,
+project_state = Table(
+    'project_state', meta,
     Column('id', Integer, primary_key=True),
     Column('name', String, index=True)
 )
@@ -36,14 +36,14 @@ project_state_log = Table(
     'project_state_log', meta,
     Column('id', Integer, primary_key=True),
     Column('project_id', Integer, ForeignKey('project.id')),
-    Column('state_id', Integer, ForeignKey('state.id')),
+    Column('state_id', Integer, ForeignKey('project_state.id')),
     Column('timestamp', DateTime),
 )
 project_milestone = Table(
     'project_milestone', meta,
     Column('id', Integer, primary_key=True),
     Column('project_id', Integer, ForeignKey('project.id')),
-    Column('state_id', Integer, ForeignKey('state.id')),
+    Column('state_id', Integer, ForeignKey('project_state.id')),
     Column('due_date', DateTime),
 )
 country = Table(

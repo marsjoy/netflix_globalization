@@ -1,0 +1,257 @@
+iso_alpha,latitude,longitude,name
+AFG,33,65,Afghanistan
+ALB,41,20,Albania
+DZA,28,3,Algeria
+ASM,-14.3333,-170,American Samoa
+AND,42.5,1.6,Andorra
+AGO,-12.5,18.5,Angola
+AIA,18.25,-63.1667,Anguilla
+ATA,-90,0,Antarctica
+ATG,17.05,-61.8,Antigua and Barbuda
+ARG,-34,-64,Argentina
+ARM,40,45,Armenia
+ABW,12.5,-69.9667,Aruba
+AUS,-27,133,Australia
+AUT,47.3333,13.3333,Austria
+AZE,40.5,47.5,Azerbaijan
+BHS,24.25,-76,Bahamas
+BHR,26,50.55,Bahrain
+BGD,24,90,Bangladesh
+BRB,13.1667,-59.5333,Barbados
+BLR,53,28,Belarus
+BEL,50.8333,4,Belgium
+BLZ,17.25,-88.75,Belize
+BEN,9.5,2.25,Benin
+BMU,32.3333,-64.75,Bermuda
+BTN,27.5,90.5,Bhutan
+BOL,-17,-65,"Bolivia, Plurinational State of"
+BOL,-17,-65,Bolivia
+BIH,44,18,Bosnia and Herzegovina
+BWA,-22,24,Botswana
+BVT,-54.4333,3.4,Bouvet Island
+BRA,-10,-55,Brazil
+IOT,-6,71.5,British Indian Ocean Territory
+BRN,4.5,114.6667,Brunei Darussalam
+BRN,4.5,114.6667,Brunei
+BGR,43,25,Bulgaria
+BFA,13,-2,Burkina Faso
+BDI,-3.5,30,Burundi
+KHM,13,105,Cambodia
+CMR,6,12,Cameroon
+CAN,60,-95,Canada
+CPV,16,-24,Cape Verde
+CYM,19.5,-80.5,Cayman Islands
+CAF,7,21,Central African Republic
+TCD,15,19,Chad
+CHL,-30,-71,Chile
+CHN,35,105,China
+CXR,-10.5,105.6667,Christmas Island
+CCK,-12.5,96.8333,Cocos (Keeling) Islands
+COL,4,-72,Colombia
+COM,-12.1667,44.25,Comoros
+COG,-1,15,Congo
+COD,0,25,"Congo, the Democratic Republic of the"
+COK,-21.2333,-159.7667,Cook Islands
+CRI,10,-84,Costa Rica
+CIV,8,-5,Côte d'Ivoire
+CIV,8,-5,Ivory Coast
+HRV,45.1667,15.5,Croatia
+CUB,21.5,-80,Cuba
+CYP,35,33,Cyprus
+CZE,49.75,15.5,Czech Republic
+DNK,56,10,Denmark
+DJI,11.5,43,Djibouti
+DMA,15.4167,-61.3333,Dominica
+DOM,19,-70.6667,Dominican Republic
+ECU,-2,-77.5,Ecuador
+EGY,27,30,Egypt
+SLV,13.8333,-88.9167,El Salvador
+GNQ,2,10,Equatorial Guinea
+ERI,15,39,Eritrea
+EST,59,26,Estonia
+ETH,8,38,Ethiopia
+FLK,-51.75,-59,Falkland Islands (Malvinas)
+FRO,62,-7,Faroe Islands
+FJI,-18,175,Fiji
+FIN,64,26,Finland
+FRA,46,2,France
+GUF,4,-53,French Guiana
+PYF,-15,-140,French Polynesia
+ATF,-43,67,French Southern Territories
+GAB,-1,11.75,Gabon
+GMB,13.4667,-16.5667,Gambia
+GEO,42,43.5,Georgia
+DEU,51,9,Germany
+GHA,8,-2,Ghana
+GIB,36.1833,-5.3667,Gibraltar
+GRC,39,22,Greece
+GRL,72,-40,Greenland
+GRD,12.1167,-61.6667,Grenada
+GLP,16.25,-61.5833,Guadeloupe
+GUM,13.4667,144.7833,Guam
+GTM,15.5,-90.25,Guatemala
+GGY,49.5,-2.56,Guernsey
+GIN,11,-10,Guinea
+GNB,12,-15,Guinea-Bissau
+GUY,5,-59,Guyana
+HTI,19,-72.4167,Haiti
+HMD,-53.1,72.5167,Heard Island and McDonald Islands
+VAT,41.9,12.45,Holy See (Vatican City State)
+HND,15,-86.5,Honduras
+HKG,22.25,114.1667,Hong Kong
+HUN,47,20,Hungary
+ISL,65,-18,Iceland
+IND,20,77,India
+IDN,-5,120,Indonesia
+IRN,32,53,"Iran, Islamic Republic of"
+IRQ,33,44,Iraq
+IRL,53,-8,Ireland
+IMN,54.23,-4.55,Isle of Man
+ISR,31.5,34.75,Israel
+ITA,42.8333,12.8333,Italy
+JAM,18.25,-77.5,Jamaica
+JPN,36,138,Japan
+JEY,49.21,-2.13,Jersey
+JOR,31,36,Jordan
+KAZ,48,68,Kazakhstan
+KEN,1,38,Kenya
+KIR,1.4167,173,Kiribati
+PRK,40,127,"Korea, Democratic People's Republic of"
+KOR,37,127.5,"Korea, Republic of"
+KOR,37,127.5,South Korea
+KWT,29.3375,47.6581,Kuwait
+KGZ,41,75,Kyrgyzstan
+LAO,18,105,Lao People's Democratic Republic
+LVA,57,25,Latvia
+LBN,33.8333,35.8333,Lebanon
+LSO,-29.5,28.5,Lesotho
+LBR,6.5,-9.5,Liberia
+LBY,25,17,Libyan Arab Jamahiriya
+LBY,25,17,Libya
+LIE,47.1667,9.5333,Liechtenstein
+LTU,56,24,Lithuania
+LUX,49.75,6.1667,Luxembourg
+MAC,22.1667,113.55,Macao
+MKD,41.8333,22,"Macedonia, the former Yugoslav Republic of"
+MDG,-20,47,Madagascar
+MWI,-13.5,34,Malawi
+MYS,2.5,112.5,Malaysia
+MDV,3.25,73,Maldives
+MLI,17,-4,Mali
+MLT,35.8333,14.5833,Malta
+MHL,9,168,Marshall Islands
+MTQ,14.6667,-61,Martinique
+MRT,20,-12,Mauritania
+MUS,-20.2833,57.55,Mauritius
+MYT,-12.8333,45.1667,Mayotte
+MEX,23,-102,Mexico
+FSM,6.9167,158.25,"Micronesia, Federated States of"
+MDA,47,29,"Moldova, Republic of"
+MCO,43.7333,7.4,Monaco
+MNG,46,105,Mongolia
+MNE,42,19,Montenegro
+MSR,16.75,-62.2,Montserrat
+MAR,32,-5,Morocco
+MOZ,-18.25,35,Mozambique
+MMR,22,98,Myanmar
+MMR,22,98,Burma
+NAM,-22,17,Namibia
+NRU,-0.5333,166.9167,Nauru
+NPL,28,84,Nepal
+NLD,52.5,5.75,Netherlands
+ANT,12.25,-68.75,Netherlands Antilles
+NCL,-21.5,165.5,New Caledonia
+NZL,-41,174,New Zealand
+NIC,13,-85,Nicaragua
+NER,16,8,Niger
+NGA,10,8,Nigeria
+NIU,-19.0333,-169.8667,Niue
+NFK,-29.0333,167.95,Norfolk Island
+MNP,15.2,145.75,Northern Mariana Islands
+NOR,62,10,Norway
+OMN,21,57,Oman
+PAK,30,70,Pakistan
+PLW,7.5,134.5,Palau
+PSE,32,35.25,"Palestinian Territory, Occupied"
+PAN,9,-80,Panama
+PNG,-6,147,Papua New Guinea
+PRY,-23,-58,Paraguay
+PER,-10,-76,Peru
+PHL,13,122,Philippines
+PCN,-24.7,-127.4,Pitcairn
+POL,52,20,Poland
+PRT,39.5,-8,Portugal
+PRI,18.25,-66.5,Puerto Rico
+QAT,25.5,51.25,Qatar
+REU,-21.1,55.6,Réunion
+ROU,46,25,Romania
+RUS,60,100,Russian Federation
+RUS,60,100,Russia
+RWA,-2,30,Rwanda
+SHN,-15.9333,-5.7,"Saint Helena, Ascension and Tristan da Cunha"
+KNA,17.3333,-62.75,Saint Kitts and Nevis
+LCA,13.8833,-61.1333,Saint Lucia
+SPM,46.8333,-56.3333,Saint Pierre and Miquelon
+VCT,13.25,-61.2,Saint Vincent and the Grenadines
+VCT,13.25,-61.2,Saint Vincent & the Grenadines
+VCT,13.25,-61.2,St. Vincent and the Grenadines
+WSM,-13.5833,-172.3333,Samoa
+SMR,43.7667,12.4167,San Marino
+STP,1,7,Sao Tome and Principe
+SAU,25,45,Saudi Arabia
+SEN,14,-14,Senegal
+SRB,44,21,Serbia
+SYC,-4.5833,55.6667,Seychelles
+SLE,8.5,-11.5,Sierra Leone
+SGP,1.3667,103.8,Singapore
+SVK,48.6667,19.5,Slovakia
+SVN,46,15,Slovenia
+SLB,-8,159,Solomon Islands
+SOM,10,49,Somalia
+ZAF,-29,24,South Africa
+SGS,-54.5,-37,South Georgia and the South Sandwich Islands
+SSD,8,30,South Sudan
+ESP,40,-4,Spain
+LKA,7,81,Sri Lanka
+SDN,15,30,Sudan
+SUR,4,-56,Suriname
+SJM,78,20,Svalbard and Jan Mayen
+SWZ,-26.5,31.5,Swaziland
+SWE,62,15,Sweden
+CHE,47,8,Switzerland
+SYR,35,38,Syrian Arab Republic
+TWN,23.5,121,"Taiwan, Province of China"
+TWN,23.5,121,Taiwan
+TJK,39,71,Tajikistan
+TZA,-6,35,"Tanzania, United Republic of"
+THA,15,100,Thailand
+TLS,-8.55,125.5167,Timor-Leste
+TGO,8,1.1667,Togo
+TKL,-9,-172,Tokelau
+TON,-20,-175,Tonga
+TTO,11,-61,Trinidad and Tobago
+TUN,34,9,Tunisia
+TUR,39,35,Turkey
+TKM,40,60,Turkmenistan
+TCA,21.75,-71.5833,Turks and Caicos Islands
+TUV,-8,178,Tuvalu
+UGA,1,32,Uganda
+UKR,49,32,Ukraine
+ARE,24,54,United Arab Emirates
+GBR,54,-2,United Kingdom
+USA,38,-97,United States
+UMI,19.2833,166.6,United States Minor Outlying Islands
+URY,-33,-56,Uruguay
+UZB,41,64,Uzbekistan
+VUT,-16,167,Vanuatu
+VEN,8,-66,"Venezuela, Bolivarian Republic of"
+VEN,8,-66,Venezuela
+VNM,16,106,Viet Nam
+VNM,16,106,Vietnam
+VGB,18.5,-64.5,"Virgin Islands, British"
+VIR,18.3333,-64.8333,"Virgin Islands, U.S."
+WLF,-13.3,-176.2,Wallis and Futuna
+ESH,24.5,-13,Western Sahara
+YEM,15,48,Yemen
+ZMB,-15,30,Zambia
+ZWE,-20,30,Zimbabwe

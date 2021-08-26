@@ -78,20 +78,16 @@ map_fig = px.choropleth(project_country,
                         labels={'total_projects': 'Total Projects'})
 project_state_milestones_avg_days_to_complete_tab = pn.widgets.Tabulator(project_state_milestones_avg_days_to_complete,
                                                                          theme='bulma',
-                                                                         show_index=False
-                                                                        )
+                                                                         show_index=False)
 project_state_milestones_avg_days_late_tab = pn.widgets.Tabulator(project_state_milestones_avg_days_late,
                                                                   theme='bulma',
-                                                                  show_index=False
-                                                                 )
+                                                                  show_index=False)
 late_by_vendor_tab = pn.widgets.Tabulator(late_by_vendor,
                                           theme='bulma',
-                                          show_index=False
-                                         )
+                                          show_index=False)
 hit_by_vendor_tab = pn.widgets.Tabulator(hit_by_vendor,
                                          theme='bulma',
-                                         show_index=False
-                                        )
+                                         show_index=False)
 blocking_num = go.Figure(go.Indicator(
     mode="number+delta",
     value=blocking.state_id.count() / project_state_milestones.state_id.count(),
